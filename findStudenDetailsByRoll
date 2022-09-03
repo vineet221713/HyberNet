@@ -13,7 +13,11 @@ public class Demo {
 	
 	Student student = em.find(Student.class, 10);
 	
-	System.out.println(student);
+	if(student != null) {
+		System.out.println(student);
+	}
+	else
+	System.out.println("student are not found");
 
 	em.close();
 	}
