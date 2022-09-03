@@ -2,10 +2,6 @@
 search google -- Hybernet docs ---> select version 5.6 --> getiing started ---> select perssitence.xml 
 
 
-
-
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <persistence xmlns="http://java.sun.com/xml/ns/persistence"
